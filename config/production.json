@@ -1,0 +1,4 @@
+{
+	"db": "mongodb+srv://adreesdev:adrees1999@cluster0.oqvjtro.mongodb.net/hotels",
+	"jwtPrivateKey": "SoemPrivateKey"
+}
